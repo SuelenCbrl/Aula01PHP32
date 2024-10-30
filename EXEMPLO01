@@ -1,0 +1,10 @@
+<?php
+    $nome = "Suelen";
+    $sobrenome = "Cabral";
+    $idade = "26";
+    $profissao = "Revisor";
+
+
+    echo "OI $profissao $nome $sobrenome. <br>";
+    echo "Voce possui atualmente $idade anos."
+?>
